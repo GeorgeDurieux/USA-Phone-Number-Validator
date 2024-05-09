@@ -24,7 +24,7 @@ Input a phone number and click the "Check number" button to see the validation r
 
 TECHNOLOGIES USED:
 
-HTML5
+HTML5<br />
 CSS3 (with flexbox and gradients for styling)<br />
 JavaScript (for validation logic and interactivity)
 
