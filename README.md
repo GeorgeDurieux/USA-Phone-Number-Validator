@@ -27,7 +27,9 @@ To run this tool locally on your machine, follow these steps:
 
 HTML5<br />
 CSS3 (with flexbox and gradients for styling)<br />
-JavaScript (for validation logic and interactivity)
+JavaScript (for validation logic and interactivity)<br />
+Regular Expressions (Regex)<br />
+Regular expressions play a crucial role in JavaScript for validating and formatting phone numbers. They enable the application to define specific patterns and rules for acceptable phone number formats, ensuring accurate validation and consistent formatting across different input formats.
 
 **LICENSE:**
 
