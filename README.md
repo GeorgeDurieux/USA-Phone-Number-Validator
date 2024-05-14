@@ -17,10 +17,11 @@ Welcome to the US Phone Number Validator! This is a simple web-based tool that a
 
 **HOW TO RUN LOCALLY:**
 
-To run this tool locally on your machine, follow these steps:<br />
-Clone this repository to your local machine using git clone.<br />
-Open the index.html file in your web browser.<br />
-Input a phone number and click the "Check number" button to see the validation result.
+To run this tool locally on your machine, follow these steps:
+
+1. Clone this repository to your local machine using git clone.<br />
+2. Open the index.html file in your web browser.<br />
+3. Input a phone number and click the "Check number" button to see the validation result.
 
 **TECHNOLOGIES USED:**
 
