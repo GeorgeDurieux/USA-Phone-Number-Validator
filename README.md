@@ -1,6 +1,6 @@
 US PHONE NUMBER VALIDATOR
 
-Welcome to the US Phone Number Validator! This is a simple web-based tool that allows you to check if a phone number is valid in the US.
+Welcome to the US Phone Number Validator! This is a simple web-based tool that allows you to check if a phone number is valid in the US. FreeCodeCamp excercise.
 
 HOW TO USE: 
 
